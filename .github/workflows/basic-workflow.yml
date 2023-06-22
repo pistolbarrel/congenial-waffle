@@ -44,5 +44,5 @@ jobs:
       - name: Run the composite
         uses: ./
         with:
-          who-to-greet: "Me"
+          who-to-greet: "Greg"
         
